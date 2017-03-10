@@ -141,10 +141,12 @@
 </section>
 
 <section class="promo">
-  <div class="row">
-      <div class="col s12 m6 offset-m3 center">
-          <p class="card-panel green lighten-2 z-depth-1 white-text">We can arrange your trip to the following tourist places. <span class="yellow-text">Vehicle Hiring Available.</span></p>
-      </div>
+  <div class="container">
+    <div class="row">
+        <div class="col s12 m6 offset-m3 center">
+            <p class="card-panel green lighten-2 z-depth-1 white-text">Let us, arrange your trip. <span class="yellow-text">Vehicle Hiring Available.</span></p>
+        </div>
+    </div>
   </div>
 </section>
 
@@ -206,10 +208,12 @@
 </section>
 
 <section class="promo">
-  <div class="row">
-      <div class="col s12 m6 offset-m3 center">
-          <p class="card-panel green lighten-2 z-depth-1 white-text"><span class="yellow-text">Enjoy your trip.</span> Let us take your headache from stay to transportation.</p>
-      </div>
+  <div class="container">
+    <div class="row">
+        <div class="col s12 m6 offset-m3 center">
+            <p class="card-panel green lighten-2 z-depth-1 white-text"><span class="yellow-text">Enjoy your trip.</span> Let us take your headache from stay to transportation.</p>
+        </div>
+    </div>
   </div>
 </section>
 
